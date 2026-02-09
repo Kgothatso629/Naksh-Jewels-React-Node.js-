@@ -1,0 +1,10 @@
+backend/
+ ├─ routes/
+ │   ├─ products.js
+ │   └─ cart.js
+ ├─ middleware/
+ │   └─ validateCart.js
+ ├─ data/
+ │   └─ products.js
+ ├─ index.js
+ ├─ .env
